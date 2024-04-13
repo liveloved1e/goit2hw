@@ -73,13 +73,19 @@ color: #2e2f42;
 
 }
 
-.address.name.link:hover{
+.address-name-link:hover{
 
   color:#404bbf;
 
 }
 
-.address.name.link:focus{
+.address-name-link:focus{
+
+  color:#404bbf;
+
+}
+
+.address-name-link:active{
 
   color:#404bbf;
 
@@ -91,7 +97,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: black;
+color:  #2e2f42;
 
 }
 
