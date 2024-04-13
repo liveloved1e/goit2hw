@@ -1,0 +1,226 @@
+/* ============ COMMON STYLES ============ */
+ul,
+ol {
+
+  list-style-type: none;
+
+}
+
+a {
+
+  color: inherit;
+  text-decoration: none;
+
+}
+
+button,
+a {
+
+  cursor: pointer;
+
+}
+
+body {
+
+  font-family: 'Roboto', sans-serif;
+  color: #111111;
+
+}
+
+.main-header{
+
+  background: #fff;
+
+}
+
+.header-logo{
+
+  font: 700 18px / 1.16667 "Raleway", sans-serif;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+
+}
+
+.page-logo-navy-blue{
+
+  color: #4d5ae5; 
+
+}
+
+  .address-name-link:focus,
+  .address-name-link:hover{
+
+    color: teal;
+
+  }
+
+.address-name-link{
+
+font: 400 16px / 1.5 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+
+
+.nav-list-item{
+
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: black;
+
+}
+
+/* ============ HERO ============ */
+
+.hero-with-h1{
+
+  background-color: #2e2f42;
+
+}
+.main-title{
+
+  font: 700 56px / 1.07143 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+
+}
+
+.order-service-btn{
+
+  background: #4d5ae5; 
+  font: 500 16px / 1.5 "Roboto", sans-serif;
+  letter-spacing: 0.04em;
+  color: #fff;
+
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+
+  color: teal;
+
+}
+
+/* ============ BENEFITS SECTION ============ */
+
+.name-of-benefits{
+
+  font: 500 20px / 1.2 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+
+.p-in-section-benefits{
+
+  font: 400 16px / 1.5 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+
+/* ============ OUR TEAM SECTION ============ */
+
+.section-with-our-team{
+
+  background: #f4f4fd;
+
+}
+
+.title-of-section-with-team{
+
+  font: 700 36px / 1.11111 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+
+}
+
+.worker-name{
+
+  font: 500 20px / 1.2 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+
+}
+
+.worker-position{
+
+  font: 400 16px / 1.5 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+
+}
+
+/*
+.picture-of-worker{
+
+ don't use it yet 
+
+}
+*/
+
+/* ============ PORTFOLIO SECTION ============ */
+
+.title-of-section-with-portfolio{
+
+  font: 700 36px / 1.11111 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+
+}
+
+.name-of-service{
+
+  font: 500 20px / 1.2 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+
+}
+
+.direction-of-service{
+
+  font: 400 16px / 1.5 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  color: #434455;
+
+}
+
+/* ============ FOOTER ============ */
+
+.bottom-footer{
+
+  background: #2e2f42;
+
+}
+
+.footer-logo{
+
+  font: 700 18px / 1.16667 "Raleway", sans-serif;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+
+}
+
+.blue-in-footer-logo-color{
+
+color: #4d5ae5;
+
+}
+
+.p-in-footer{
+
+  font: 400 16px / 1.5 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+
+}
